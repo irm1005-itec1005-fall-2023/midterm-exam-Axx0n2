@@ -61,14 +61,7 @@ main {
   height: 400px;
   width: 400px;
   overflow: hidden;
-  /*
-  transform: scale(0.5);
-  
-  position: relative;
-  overflow: hidden;
-  height: 400px;
-  width: 400px;
-  */
+ 
 }
 
 .bigBox a {
@@ -122,6 +115,5 @@ main {
   color: white;
   background-color: #9C6644;
   text-decoration: none;
-  
   
 }
